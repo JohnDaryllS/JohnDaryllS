@@ -70,7 +70,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JohnDaryllS/JohnDaryllS/output/snake.svg" alt="Snake animation" />
-
-###
