@@ -1,4 +1,4 @@
-<h2 align="left">I'm John Daryll R. Sampilingan, a passionate FullStack web developer and 4th year student. While I don't have formal work experience yet, my dedication to learning and improving my skills ensures I can deliver results better than anyone. I'm constantly honing my expertise in both front-end and back-end technologies, and I'm excited to apply my knowledge to real-world projects.</h2>
+<h2 align="left">I'm John Daryll Sampilingan, a passionate FullStack web developer and 4th year student. While I don't have formal work experience yet, my dedication to learning and improving my skills ensures I can deliver results better than anyone. I'm constantly honing my expertise in both front-end and back-end technologies, and I'm excited to apply my knowledge to real-world projects.</h2>
 
 ###
 
@@ -68,5 +68,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JohnDaryllS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnDaryllS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/JohnDaryllS/JohnDaryllS/output/snake.svg" alt="Snake animation" />
 
 ###
