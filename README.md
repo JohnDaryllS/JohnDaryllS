@@ -66,3 +66,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnDaryllS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<img align="center" height="150" src="[https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0](https://pin.it/67C2vfjEy)"  />
