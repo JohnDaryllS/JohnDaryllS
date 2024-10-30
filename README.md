@@ -75,6 +75,6 @@
   <img height="400" src="https://i.pinimg.com/originals/62/f6/0e/62f60eb00055ce5a3580bd91559f9f94.gif"/>
 </div>
 
-<div align="left">
+<div align="center">
   <img height="400" src="https://i.pinimg.com/originals/22/85/52/228552bb6bdd183da62941c007097034.gif"/>
 </div>
