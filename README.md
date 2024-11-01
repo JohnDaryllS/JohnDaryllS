@@ -1,4 +1,7 @@
 <h2 align="left">I'm John Daryll Sampilingan, a passionate FullStack web developer and 4th year student. While I don't have formal work experience yet, my dedication to learning and improving my skills ensures I can deliver results better than anyone. I'm constantly honing my expertise in both front-end and back-end technologies, and I'm excited to apply my knowledge to real-world projects.</h2>
+<div align="center">
+  <img height="160" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  width="900"/>
+</div>
 
 ###
 
@@ -67,14 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnDaryllS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img height="160" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  width="900"/>
-</div>
-
 <div align="left">
   <img height="400" src="https://i.pinimg.com/originals/62/f6/0e/62f60eb00055ce5a3580bd91559f9f94.gif"/>
-</div>
-
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/22/85/52/228552bb6bdd183da62941c007097034.gif"/>
 </div>
