@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnDaryllS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnDaryllS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 <div align="left">
@@ -71,5 +71,5 @@
 </div>
 
 <div align="left">
-  <img height="400" src="https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif"/>
+  <img height="400" src="https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif" width="600"/>
 </div>
