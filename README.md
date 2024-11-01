@@ -68,5 +68,5 @@
 
 <div align="left">
   <img height="400" src="https://i.pinimg.com/originals/62/f6/0e/62f60eb00055ce5a3580bd91559f9f94.gif"/>
-  <img height="400" src="https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif" width="700"/>
+  <img height="400" src="https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif" width="600"/>
 </div>
