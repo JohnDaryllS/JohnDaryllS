@@ -1,4 +1,4 @@
-<h2 align="left">I'm John Daryll Sampilingan, a passionate FullStack web developer and 4th year student. While I don't have formal work experience yet, my dedication to learning and improving my skills ensures I can deliver results better than anyone. I'm constantly honing my expertise in both front-end and back-end technologies, and I'm excited to apply my knowledge to real-world projects.</h2>
+<h2 align="left">I'm John Daryll Sampilingan, a passionate FullStack web developer and 4th year student. While I don't have formal work experience yet, my dedication to learning and improving my skills ensures I can deliver better results than anyone else. I'm constantly honing my expertise in both front-end and back-end technologies, and I'm excited to apply my knowledge to real-world projects.</h2>
 <div align="center">
   <img height="160" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  width="900"/>
 </div>
